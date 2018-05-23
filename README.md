@@ -1,5 +1,5 @@
 # DataStructure
 Data Structures through JS
 
-### QuickSort: 
+### QuickSort: ###
 https://jsfiddle.net/kqkfyxxj/8/
